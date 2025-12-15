@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Malvin Evano
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/t53_MkMC_ooAAAAC/deku-hello-deku.gif" width="300" />
+  <img src="https://media1.tenor.com/m/t53_MkMC_ooAAAAC/deku-hello-deku.gif" width="400" />
 </p>
 
 🎮 Game & Mobile Developer | 🎨 Frontend Engineer  
-🎓 Computer Science Graduate (Game & Mobile Development) at Singapore Institute of Management – University of Wollongong
+🎓 Computer Science (Game & Mobile Development) at Singapore Institute of Management – University of Wollongong
 💡 Passionate about Games, VR, and Interactive Applications  
 
 
