@@ -5,11 +5,10 @@
 </p>
 
 ## 🚀 About Me
-🎮 Game & Mobile Developer | 🎨 Frontend Engineer  
-🎓 Graduate From Singapore Institute of Management – University of Wollongong
-💡 Passionate about Games, VR, and Frontend development  
+🎮 **Game & Mobile Developer** | 🎨 **Frontend Engineer**  
+🎓 Graduate from **Singapore Institute of Management – University of Wollongong**  
+💡 Passionate about **Games, VR, and Frontend Development**
 ---
-
 ## 🌍 Languages
 - 🇬🇧 English  
 - 🇮🇩 Indonesian  
