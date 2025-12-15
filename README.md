@@ -4,24 +4,10 @@
   <img src="https://media1.tenor.com/m/t53_MkMC_ooAAAAC/deku-hello-deku.gif" width="400" />
 </p>
 
-🎮 Game & Mobile Developer | 🎨 Frontend Engineer  
-🎓 Computer Science (Game & Mobile Development) at Singapore Institute of Management – University of Wollongong
-💡 Passionate about Games, VR, and Interactive Applications  
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzryyy&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 About Me
-
-I am a **Computer Science graduate** specializing in **Game and Mobile Development** with strong hands-on experience in **Android apps, VR games, and desktop applications**.  
-
-I enjoy building **interactive systems**, experimenting with **game mechanics**, and creating **clean, responsive user interfaces**.  
-Beyond development, I also have experience in **systems administration and networking**, giving me a solid understanding of both software and infrastructure.
-
+🎮 Game & Mobile Developer | 🎨 Frontend Engineer  
+🎓 Graduate From Singapore Institute of Management – University of Wollongong
+💡 Passionate about Games, VR, and Frontend development  
 ---
 
 ## 🌍 Languages
@@ -31,6 +17,11 @@ Beyond development, I also have experience in **systems administration and netwo
   
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzryyy&layout=compact&theme=tokyonight" />
+</p>
+
+---
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
