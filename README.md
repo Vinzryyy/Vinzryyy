@@ -1,12 +1,13 @@
 # 👋 Hi, I'm Malvin Evano
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/t53_MkMC_ooAAAAC/deku-hello-deku.gif" width="300" />
+</p>
+
 🎮 Game & Mobile Developer | 🎨 Frontend Engineer  
 🎓 Computer Science Graduate (Game & Mobile Development) at Singapore Institute of Management – University of Wollongong
 💡 Passionate about Games, VR, and Interactive Applications  
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/t53_MkMC_ooAAAAC/deku-hello-deku.gif" width="220" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzryyy&layout=compact&theme=tokyonight" />
@@ -21,6 +22,13 @@ I am a **Computer Science graduate** specializing in **Game and Mobile Developme
 I enjoy building **interactive systems**, experimenting with **game mechanics**, and creating **clean, responsive user interfaces**.  
 Beyond development, I also have experience in **systems administration and networking**, giving me a solid understanding of both software and infrastructure.
 
+---
+
+## 🌍 Languages
+- 🇬🇧 English  
+- 🇮🇩 Indonesian  
+- 🇨🇳 Chinese
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -74,16 +82,4 @@ Beyond development, I also have experience in **systems administration and netwo
 
 ---
 
-## 🌍 Languages
-- 🇬🇧 English  
-- 🇮🇩 Indonesian  
-- 🇨🇳 Chinese  
 
----
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vinzryyy&theme=tokyonight&row=1" />
-</p>
-
----
