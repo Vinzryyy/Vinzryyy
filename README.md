@@ -1,26 +1,30 @@
 # 👋 Hi, I'm Malvin Evano
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/t53_MkMC_ooAAAAC/deku-hello-deku.gif" width="400" />
+  <img src="https://media1.tenor.com/m/t53_MkMC_ooAAAAC/deku-hello-deku.gif" width="300" />
 </p>
 
 ## 🚀 About Me
 🎮 **Game & Mobile Developer** | 🎨 **Frontend Engineer**  
 🎓 Graduate from **Singapore Institute of Management – University of Wollongong**  
 💡 Passionate about **Games, VR, and Frontend Development**
----
+<hr/>
 ## 🌍 Languages
-- 🇬🇧 English  
-- 🇮🇩 Indonesian  
-- 🇨🇳 Chinese
-  
----
+- **English** – Professional working proficiency  
+- **Indonesian** – Native  
+- **Chinese** – Conversational
+<hr/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzryyy&layout=compact&theme=tokyonight" />
 </p>
+## 🎮 What I Build
+- VR Games (Unity XR Toolkit)
+- Mobile Games & Android Apps
+- Frontend Apps (React)
+- Multiplayer & Input Systems
 
----
+<hr/>
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -33,8 +37,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
----
-
+<hr/>
 ### 🌐 Web & Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -43,7 +46,7 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
 
----
+<hr/>
 
 ### 🎮 Game Development
 <p>
@@ -51,7 +54,7 @@
   <img src="https://img.shields.io/badge/XR_Toolkit-5A5A5A?style=for-the-badge"/>
 </p>
 
----
+<hr/>
 
 ### 🗄️ Databases & Backend
 <p>
@@ -60,7 +63,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
----
+<hr/>
 
 ### ⚙️ Tools & Systems
 <p>
@@ -70,6 +73,6 @@
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
----
+<hr/>
 
 
