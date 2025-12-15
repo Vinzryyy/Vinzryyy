@@ -8,23 +8,39 @@
 🎮 **Game & Mobile Developer** | 🎨 **Frontend Engineer**  
 🎓 Graduate from **Singapore Institute of Management – University of Wollongong**  
 💡 Passionate about **Games, VR, and Frontend Development**
+
 <hr/>
+
 ## 🌍 Languages
 - **English** – Professional working proficiency  
 - **Indonesian** – Native  
-- **Chinese** – Conversational
+- **Chinese** – Conversational  
+
 <hr/>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinzryyy&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vinzryyy&theme=tokyonight" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzryyy&layout=compact&theme=tokyonight" />
 </p>
-## 🎮 What I Build
-- VR Games (Unity XR Toolkit)
-- Mobile Games & Android Apps
-- Frontend Apps (React)
-- Multiplayer & Input Systems
 
 <hr/>
+
+## 🎮 What I Build
+- VR Games (**Unity XR Toolkit**)  
+- Mobile Games & Android Applications  
+- Frontend Applications (**React / React Native**)  
+- Multiplayer & Input Systems  
+
+<hr/>
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
@@ -38,6 +54,7 @@
 </p>
 
 <hr/>
+
 ### 🌐 Web & Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -74,5 +91,3 @@
 </p>
 
 <hr/>
-
-
