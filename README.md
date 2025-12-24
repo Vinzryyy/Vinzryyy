@@ -18,16 +18,7 @@
 
 <hr/>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vinzryyy&show_icons=true&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinzryyy&layout=compact&theme=tokyonight" />
-</p>
-
-<hr/>
 
 ## 🎮 What I Build
 - VR Games (**Unity XR Toolkit**)  
