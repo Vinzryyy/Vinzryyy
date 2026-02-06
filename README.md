@@ -8,11 +8,7 @@
 🎮 **Game & Mobile Developer** | 🎨 **Frontend Engineer**  
 🎓 Graduate from **Singapore Institute of Management – University of Wollongong**  
 💡 Passionate about **Games, VR, and Frontend Development**
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
-</picture>
+
 <hr/>
 
 ## 🌍 Languages
@@ -32,6 +28,13 @@
 
 <hr/>
 
+## Loading
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
+</picture>
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
