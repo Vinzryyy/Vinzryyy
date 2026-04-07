@@ -1,24 +1,25 @@
-# Hi, I'm Malvin Evano
+# 👋 Hi, I'm Malvin Evano
 
 <p align="center">
   <img src="https://media1.tenor.com/m/t53_MkMC_ooAAAAC/deku-hello-deku.gif" width="300" />
 </p>
 
-## About Me
+## 🚀 About Me
 **Full-Stack Developer** | **Golang Backend Engineer**  
 **Bachelor of Computer Science (Game and Mobile Development)**  
 Dedicated to bridging high-performance back-end systems with intuitive, user-centric front-end experiences.
 
 <hr/>
 
-## Languages
+
+## 🌍 Languages
 - **English** - Fluent
 - **Indonesian** - Fluent
 - **Chinese** - Fluent
 
 <hr/>
 
-## What I Build
+## 🎮 What I Build
 - Scalable RESTful APIs with **Go (Echo)**
 - Responsive mobile-first interfaces with **React 19**
 - End-to-end full-stack applications
@@ -35,9 +36,12 @@ Dedicated to bridging high-performance back-end systems with intuitive, user-cen
   <img alt="github-snake" src="https://raw.githubusercontent.com/ritesh-0309/ritesh-0309/output/github-snake.svg" />
 </picture>
 
-## Tech Stack
 
-### Programming Languages
+
+
+## 🛠️Tech Stack
+
+### 💻Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
@@ -50,7 +54,7 @@ Dedicated to bridging high-performance back-end systems with intuitive, user-cen
 
 <hr/>
 
-### Web & Full-Stack
+### 🌐Web & Full-Stack
 <p>
   <img src="https://img.shields.io/badge/React_19-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Echo-000000?style=for-the-badge&logo=go&logoColor=white"/>
@@ -63,7 +67,7 @@ Dedicated to bridging high-performance back-end systems with intuitive, user-cen
 
 <hr/>
 
-### Game Development
+### 🎮Game Development
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/XR_Toolkit-5A5A5A?style=for-the-badge"/>
@@ -72,7 +76,7 @@ Dedicated to bridging high-performance back-end systems with intuitive, user-cen
 
 <hr/>
 
-### Databases & Backend
+### 🗄️ Databases & Backend
 <p>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -83,7 +87,7 @@ Dedicated to bridging high-performance back-end systems with intuitive, user-cen
 
 <hr/>
 
-### Tools & Systems
+### ⚙️Tools & Systems
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
@@ -93,3 +97,9 @@ Dedicated to bridging high-performance back-end systems with intuitive, user-cen
 </p>
 
 <hr/>
+
+<div align="center">
+  <img src="https://count.getloli.com/@:Vinzryyy?theme=minecraft&padding=7&offset=1&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
+
+###
